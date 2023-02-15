@@ -1,0 +1,9 @@
+com\MuxamCareAutoMation\utilities\ReadConfig.class
+com\MuxamCareAutoMation\utilities\XLUtils.class
+com\MuxamCareAutoMation\testCases\TC_LoginDDT_002.class
+com\MuxamCareAutoMation\utilities\Reporting.class
+com\MuxamCareAutoMation\pageobjects\LoginPageObjects.class
+com\MuxamCareAutoMation\testCases\TC_LoginTest_001.class
+com\MuxamCareAutoMation\pageobjects\CreatePatientObjects.class
+com\MuxamCareAutoMation\testCases\TC_CreatePatientTest_003.class
+com\MuxamCareAutoMation\testCases\BaseClass.class
