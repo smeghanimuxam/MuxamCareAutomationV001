@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-15T18:37:00 PKT" name="MuxamCareAutoMation" finished-at="2023-02-15T18:38:02 PKT" duration-ms="61958">
+  <suite started-at="2023-02-16T20:55:44 PKT" name="MuxamCareAutoMation" finished-at="2023-02-16T20:56:45 PKT" duration-ms="61347">
     <groups>
     </groups>
-    <test started-at="2023-02-15T18:37:00 PKT" name="MuxamCareApp Test" finished-at="2023-02-15T18:38:02 PKT" duration-ms="61958">
+    <test started-at="2023-02-16T20:55:44 PKT" name="MuxamCareApp Test" finished-at="2023-02-16T20:56:45 PKT" duration-ms="61347">
       <class name="com.MuxamCareAutoMation.testCases.TC_CreatePatientTest_003">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.MuxamCareAutoMation.testCases.TC_CreatePatientTest_003@7c469c48]" started-at="2023-02-15T18:37:28 PKT" name="setup" finished-at="2023-02-15T18:37:36 PKT" duration-ms="7915" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.MuxamCareAutoMation.testCases.TC_CreatePatientTest_003@7c0c77c7]" started-at="2023-02-16T20:56:13 PKT" name="setup" finished-at="2023-02-16T20:56:19 PKT" duration-ms="6226" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="AddNewPatient()[pri:0, instance:com.MuxamCareAutoMation.testCases.TC_CreatePatientTest_003@7c469c48]" started-at="2023-02-15T18:37:36 PKT" name="AddNewPatient" finished-at="2023-02-15T18:38:02 PKT" duration-ms="26388" status="PASS">
+        <test-method signature="AddNewPatient()[pri:0, instance:com.MuxamCareAutoMation.testCases.TC_CreatePatientTest_003@7c0c77c7]" started-at="2023-02-16T20:56:19 PKT" name="AddNewPatient" finished-at="2023-02-16T20:56:45 PKT" duration-ms="26450" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddNewPatient -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.MuxamCareAutoMation.testCases.TC_CreatePatientTest_003@7c469c48]" started-at="2023-02-15T18:38:02 PKT" name="tearDown" finished-at="2023-02-15T18:38:02 PKT" duration-ms="261" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.MuxamCareAutoMation.testCases.TC_CreatePatientTest_003@7c0c77c7]" started-at="2023-02-16T20:56:45 PKT" name="tearDown" finished-at="2023-02-16T20:56:45 PKT" duration-ms="223" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.MuxamCareAutoMation.testCases.TC_CreatePatientTest_003 -->
       <class name="com.MuxamCareAutoMation.testCases.TC_LoginTest_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.MuxamCareAutoMation.testCases.TC_LoginTest_001@12b0404f]" started-at="2023-02-15T18:37:01 PKT" name="setup" finished-at="2023-02-15T18:37:08 PKT" duration-ms="7524" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.MuxamCareAutoMation.testCases.TC_LoginTest_001@1f3f4916]" started-at="2023-02-16T20:55:45 PKT" name="setup" finished-at="2023-02-16T20:55:52 PKT" duration-ms="7577" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,11 +39,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.MuxamCareAutoMation.testCases.TC_LoginTest_001@12b0404f]" started-at="2023-02-15T18:37:08 PKT" name="loginTest" finished-at="2023-02-15T18:37:28 PKT" duration-ms="19075" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.MuxamCareAutoMation.testCases.TC_LoginTest_001@1f3f4916]" started-at="2023-02-16T20:55:52 PKT" name="loginTest" finished-at="2023-02-16T20:56:12 PKT" duration-ms="19865" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.MuxamCareAutoMation.testCases.TC_LoginTest_001@12b0404f]" started-at="2023-02-15T18:37:28 PKT" name="tearDown" finished-at="2023-02-15T18:37:28 PKT" duration-ms="335" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.MuxamCareAutoMation.testCases.TC_LoginTest_001@1f3f4916]" started-at="2023-02-16T20:56:12 PKT" name="tearDown" finished-at="2023-02-16T20:56:12 PKT" duration-ms="223" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
